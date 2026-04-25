@@ -3,6 +3,7 @@ import mongoose from "mongoose";
  
 
 const {DB_NAME,MONGODB_URI} = process.env;
+console.log(`${MONGODB_URI}/${DB_NAME}`);
 
 const connectDB = async ()=> {
 
