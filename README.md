@@ -2,6 +2,9 @@
 
 A simplified RFQ (Request for Quotation) system that supports **British Auction–style bidding** with automatic bid-time extensions, forced close rules, and role-based access for buyers and suppliers.
 
+## Schema Design
+- Schema Design link
+-  https://app.eraser.io/workspace/GaYNP3KjtEf2qCr4Njy5
 
 ## Overview
 
